@@ -1,0 +1,30 @@
+﻿.backlog-item {
+  border-bottom: 1px solid #dee2e6;
+}
+
+.backlog-item input {
+  border: none;
+  width: 100%;
+  background-color: transparent;
+}
+
+.story-points-div {
+  text-align: center;
+  width:40px;
+}
+
+.story-points-input{
+  text-align:center;
+}
+
+.priority-score-field {
+  text-align: center;
+}
+
+.save-button {
+  display: inline-block;
+}
+
+.save-button .btn:disabled {
+  visibility: hidden;
+}

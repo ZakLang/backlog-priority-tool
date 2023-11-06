@@ -1,0 +1,19 @@
+.filter-span {
+  display: inline-block;
+  padding: 2px 10px;
+  vertical-align: middle;
+}
+
+.filter-span p {
+  display: inline-block;
+  width: auto;
+  margin: 0 5px;
+  vertical-align: middle;
+}
+
+.filter-span input {
+  display: inline-block;
+  width: 70px;
+  margin: 0 5px;
+  vertical-align: middle;
+}

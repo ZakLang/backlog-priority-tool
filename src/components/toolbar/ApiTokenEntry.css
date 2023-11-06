@@ -1,0 +1,19 @@
+.api-token-span {
+  display: inline-block;
+  padding: 2px 10px;
+  vertical-align: middle;
+}
+
+  .api-token-span p {
+    display: inline-block;
+    width: auto;
+    margin: 0 5px;
+    vertical-align: middle;
+  }
+
+  .api-token-span input {
+    display: inline-block;
+    width: 410px;
+    margin: 0 5px;
+    vertical-align: middle;
+  }

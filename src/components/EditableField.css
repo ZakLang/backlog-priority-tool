@@ -1,0 +1,29 @@
+.editable-field .btn {
+  --bs-btn-font-size: 0.8rem;
+  width: 120px;
+  text-align: left;
+  --bs-btn-font-size: 0.8rem;
+  --bs-btn-bg: #CBF1F5;
+  --bs-btn-color: #000;
+  --bs-btn-border-color: #71C9CE;
+  --bs-btn-hover-bg: #A6E3E9;
+  --bs-btn-hover-color: #000;
+  --bs-btn-hover-border-color: #71C9CE;
+  --bs-btn-active-bg: #71C9CE;
+  --bs-btn-active-color: #000;
+  --bs-btn-active-border-color: #71C9CE;
+}
+
+.editable-field .flagged .btn {
+  --bs-btn-bg: #f5cbcb;
+  --bs-btn-border-color: #ce7171;
+  --bs-btn-hover-bg: #e9a6a6;
+  --bs-btn-hover-border-color: #ce7171;
+  --bs-btn-active-bg: #ce7171;
+  --bs-btn-active-border-color: #ce7171;
+}
+
+.editable-field .dropdown-menu {
+  --bs-dropdown-font-size: 0.8rem;
+  width: 100px;
+}

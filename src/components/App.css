@@ -1,0 +1,15 @@
+body {
+  margin-top: 20px;
+  --bs-body-bg: #E3FDFD55;
+}
+
+.base .primary-btn {
+  margin-top: 40px;
+}
+
+.base {
+  margin-bottom: 0;
+  text-align: center;
+  cursor: default;
+  padding: 10px;
+}

@@ -1,0 +1,46 @@
+﻿
+.backlog-table{
+  margin: 10px 0;
+}
+
+.backlog-header {
+  font-size: 1.2em;
+  text-align: center;
+}
+
+.backlog-header tr th{
+  padding: 10px 0;
+  word-wrap: normal;
+}
+
+.priority-score-header{
+  min-width: 30px;
+}
+
+.key-header{
+  text-align:left;
+  min-width:120px;
+}
+
+.name-header{
+  text-align:left;
+  min-width:700px;
+}
+
+.type-header{
+  min-width:30px;
+}
+
+.priority-header{
+  min-width:30px;
+}
+
+.story-points-header{
+  min-width:40px;
+}
+
+.priority-fields-header{
+  font-size: 0.7em;
+  min-width: 120px;
+  max-width: 120px;
+}
